@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
-p::before{
-	content:Before Element;
+.a{
+	color:red;
+	font-weight:bold;
+}
+body{
+	display:flex;
+	align-items:center;
 }
